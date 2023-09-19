@@ -1,4 +1,4 @@
-# Welcome to the Intro to Programming repository!
+# Welcome to the Python repository!
 
 We are grateful for your contributions to this repository. By contributing, you are helping to make it a better resource for everyone learning to program.
 
